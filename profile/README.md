@@ -31,4 +31,4 @@ Read the field manual: **[digitalshepard.ai](https://digitalshepard.ai)**
 
 ## License
 
-All repositories are MIT licensed unless stated otherwise.
+Each repository has its own license. See the LICENSE file in each repo for details.
